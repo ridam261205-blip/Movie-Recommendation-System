@@ -1,24 +1,19 @@
-# Movie-Recommendation-System
+# Movie Recommendation System
 
-Simple movie recommendation system (Python).
+Simple movie recommendation system built with Python.
 
-## How to run
-1. Clone repo:
-   git clone https://github.com/USERNAME/Movie-Recommendation-System.git
-   cd Movie-Recommendation-System
+## Files
+- `main.py` or `app.py` - Run this to start the app/script.
+- `movie.pkl` - Trained model file (if large, download link below).
+- `requirements.txt` - Python packages.
+- `demo.ipynb` - Example notebook (optional).
 
-2. Install dependencies:
-   pip install -r requirements.txt
+## Setup
+1. Clone : https://github.com/Ridam Sharma/Movie-Recommendation-System.git
+2. Install : pip install -r requirements.txt
+3. Run : streamlit run app.py
+  ## Data / Model
+If `movie.pkl` is not in the repo (large file), download it here:
+Download model: https://drive.google.com/drive/my-drive?dmr=1&ec=wgc-drive-hero-goto
 
-3. Run:
-   python app.py
-   # or python main.py (use your main script name)
 
-## Data / model
-Large model/data (movie.pkl) is available at: <Google Drive or Dropbox link>
-(Download and place into the repo `data/` folder if needed.)
-
-## Contact
-Name - Ridam Sharma 
-Email - ridam.261205@gmail.com 
-GitHub profile link - https://github.com/ridam261205-blip
