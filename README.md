@@ -1,19 +1,28 @@
-# Movie Recommendation System
+# 🎬 Movie Recommendation System
 
-Simple movie recommendation system built with Python.
+A simple Movie Recommendation System built using Python and machine learning.
 
-## Files
-- `main.py` or `app.py` - Run this to start the app/script.
-- `movie.pkl` - Trained model file (if large, download link below).
-- `requirements.txt` - Python packages.
-- `demo.ipynb` - Example notebook (optional).
+## 🚀 Features
+- Recommends similar movies
+- Uses a trained ML model (movie.pkl)
+- Easy to use and run
 
-## Setup
-1. Clone : https://github.com/Ridam Sharma/Movie-Recommendation-System.git
-2. Install : pip install -r requirements.txt
-3. Run : streamlit run app.py
-  ## Data / Model
-If `movie.pkl` is not in the repo (large file), download it here:
-Download model: https://drive.google.com/drive/my-drive?dmr=1&ec=wgc-drive-hero-goto
+## 📂 Files in this project
+- `app.py` – main application script  
+- `movie.pkl` – trained model  
+- `requirements.txt` – libraries needed  
+- `README.md` – project explanation  
+
+## ▶️ How to Run
+1. Install requirements : pip -r requirements .txt
+2. Run the project : streamlit run app.py
+   ## 📸 Screenshot
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e1e31491-4477-4f44-9d47-4ff7288eedd3" />
+
+
+## ⭐ Show some love
+If you like this project, please ⭐ star the repository!
+   
+
 
 
